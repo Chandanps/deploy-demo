@@ -7,9 +7,7 @@ function App() {
         <h3>Some random header</h3>
       </header>
       <div className="App-content">
-        Hello Sonali and Shashank!<br/>
-        :P <br/>
-
+        If all of this is displayed, a demo deployment of react-app on github is successfull!!
       </div>
       <footer className="App-footer">
         Some random footer
